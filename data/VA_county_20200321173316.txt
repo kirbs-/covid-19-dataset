@@ -1,0 +1,33 @@
+county|positive_cases
+Arlington|22
+Albemarle|1
+Alexandria|5
+Harrisonburg|1
+Mecklenbura|1
+Botetourt|1
+Goochland|1
+Stafford|2
+Gloucester|2
+Charlottesville|1
+Newport News|2
+James City|20
+Norfolk|3
+Prince Edward|1
+Accomack|1
+Williamsburg|4
+Hanover|1
+Richmond City|6
+Chesterfield|7
+Suffolk|1
+Mecklenburg|1
+Henrico|7
+Isle of Wight|1
+Spotsylvania|1
+Fairfax|22
+Franklin County|1
+York|3
+Loudoun|14
+Portsmouth|1
+Charles City|1
+Virginia Beach|4
+Prince William|14
