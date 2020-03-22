@@ -1,0 +1,39 @@
+county|positive_cases
+Harrisonburg|1
+Norfolk|3
+Spotsylvania|2
+Alexandria|5
+Goochland|2
+Stafford|5
+Botetourt|1
+James City|32
+Henrico|8
+Mecklenburg|1
+Arlington|26
+Newport News|2
+Albemarle|2
+Suffolk|1
+Charles City|1
+Culpeper|2
+Chesterfield|8
+Richmond City|6
+Hanover|1
+Gloucester|2
+Portsmouth|1
+Charlottesville|4
+Lee|2
+York|5
+Virginia Beach|17
+Prince William|18
+Rockingham|2
+Franklin County|1
+Fairfax|31
+Isle of Wight|1
+Amherst|1
+Bedford|1
+Accomack|1
+Loudoun|15
+Williamsburg|5
+Prince Edward|1
+Louisa|1
+Fluvanna|1

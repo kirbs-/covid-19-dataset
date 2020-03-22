@@ -1,0 +1,19 @@
+county|positive_cases
+Anne Arundel|18
+Baltimore City|24
+Baltimore County|28
+Calvert|2
+Caroline|1
+Carroll|4
+Cecil|1
+Charles|5
+Frederick|1
+Harford|5
+Howard|24
+Montgomery|83
+Prince George's|40
+St. Mary's|1
+Somerset|1
+Talbot|1
+Wicomico|2
+Worcester|2

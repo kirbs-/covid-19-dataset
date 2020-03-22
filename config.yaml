@@ -1,0 +1,3 @@
+data_folder: data
+data_source_backup_folder: source_page_backup
+timestamp_date_format: '%Y%m%d%H%M%S'
