@@ -5,6 +5,7 @@ Daily snapshots of US cases by county.
 
 ## County Data Status
 | State | Scraper | Validator | Aggergator | Time Series |
+|-------|---------|-----------|------------|-------------|
 |   VA  |    Y    |     N     |     N      |      N      |
 |   CA  |    Y    |     N     |     N      |      N      |
 |   MD  |    Y    |     N     |     N      |      N      |
