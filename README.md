@@ -3,6 +3,25 @@ US county level COVID-19 case data.
 
 Daily snapshots of US cases by county. 
 
+## County Data Status
+| State | Scraper | Validator | Aggergator | Time Series |
+|   VA  |    Y    |     N     |     N      |      N      |
+|   CA  |    Y    |     N     |     N      |      N      |
+|   MD  |    Y    |     N     |     N      |      N      |
+|   MI  |    Y    |     N     |     N      |      N      |
+|   WY  |    Y    |     N     |     N      |      N      |
+|   TN  |    Y    |     N     |     N      |      N      |
+|   NJ  |    Y    |     N     |     N      |      N      |
+|   NY  |    Y    |     N     |     N      |      N      |
+|   CO  |    Y    |     N     |     N      |      N      |
+|   OH  |    Y    |     N     |     N      |      N      |
+|   FL  |    Y    |     N     |     N      |      N      |
+|   AK  |    Y    |     N     |     N      |      N      |
+|   TX  |    Y    |     N     |     N      |      N      |
+|   WA  |    Y    |     N     |     N      |      N      |
+|   PA  |    Y    |     N     |     N      |      N      |
+
+
 ## Project structure
 ```
 /data
