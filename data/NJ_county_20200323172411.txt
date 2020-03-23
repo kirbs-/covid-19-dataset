@@ -1,0 +1,22 @@
+county|positive_cases
+Bergen County|609
+Essex County|273
+Monmouth County|238
+Middlesex County|210
+Hudson County|190
+Union County|189
+Morris County|177
+Ocean County|144
+Passaic County|141
+Somerset County|67
+Mercer County|50
+Burlington County|36
+Camden County|33
+Hunterdon County|18
+Sussex County|15
+Gloucester County|13
+Warren County|12
+Atlantic County|6
+Cape May County|2
+Cumberland County|1
+Salem County|1

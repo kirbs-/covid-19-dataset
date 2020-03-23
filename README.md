@@ -25,13 +25,13 @@ Daily snapshots of US cases by county.
 
 ## Project structure
 ```
-/data
+/data  # county level snapshots by scrape timestamp.
     |
-    - {state}_by_county_{scraper_timestamp_in_EDT}.txt
-/source_page_backup
+    - {state}_by_county_{scraper_timestamp_in_EDT}.txt # snapshot of scraped results as of timestamp.
+/source_page_backup # backup of source pages by scrape timestamp.
     |
-    - {state}_county_{scrape_timestamp}.html # depends on data source
-- main.ipynb # triggers 
+    - {state}_county_{scrape_timestamp}.html # backup of source page. Extension depends on data source.
+- main.ipynb # triggers crawler
 - config.yaml # shared scraper configurations
 - {state}_by_county.ipynb # State specific scapers
 ```
