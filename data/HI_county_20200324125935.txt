@@ -1,0 +1,15 @@
+county|positive_cases
+"Novel Coronavirus in Hawaii
+COVID-19 Positive* Cases
+Cumulative totals as of 12:00 noon on March 23, 2020"|
+Total (new)|77 (21)
+County|
+Hawaii|5 (2)
+Honolulu|53 (12)
+Kauai|3 (0)
+Maui|11 (2)
+Pending|5 (5)
+|
+Required Hospitalization|4 (1)
+Deaths|0 (0)
+*includes presumptive and confirmed cases, and Hawaii and non-Hawaii residents; note that CDC provides case counts according to states of residence.|

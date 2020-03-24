@@ -1,0 +1,47 @@
+county|positive_cases|deaths
+  County|Cases|Deaths
+  Allegan|1| 
+  Barry|1| 
+  Bay|2| 
+  Berrien|8| 
+  Calhoun|4| 
+  Charlevoix|3| 
+  Chippewa|1| 
+  Clare|1| 
+  Clinton|5| 
+  Detroit City|563|8
+  Eaton|3| 
+  Emmet|2| 
+  Genesee|34| 
+  Gladwin|2| 
+  Grand Traverse|3| 
+  Hillsdale|1| 
+  Ingham|15| 
+  Isabella|2| 
+  Jackson|6| 
+  Kalamazoo|3| 
+  Kalkaska|1| 
+  Kent|31|1
+  Lapeer|1| 
+  Leelanau|1| 
+  Livingston|13| 
+  Macomb|225|3
+  Manistee|1| 
+  Midland|5| 
+  Monroe|12| 
+  Montcalm|1| 
+  Muskegon|3| 
+  Newaygo|2| 
+  Oakland|428|4
+  Otsego|5| 
+  Ottawa|15| 
+  Roscommon|1| 
+  Saginaw|8| 
+  St. Clair|8| 
+  Tuscola|1| 
+  Washtenaw|50|3
+  Wayne|310|5
+  Wexford|1| 
+  Out of State|6| 
+  Not Reported|2| 
+  Total|1,791|24

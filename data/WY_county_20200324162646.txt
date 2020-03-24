@@ -1,0 +1,9 @@
+county|positive_cases
+Campbell|1
+Carbon|2
+Fremont|10
+Laramie|7
+Natrona|2
+Park|1
+Sheridan|4
+Teton|2

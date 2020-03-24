@@ -1,0 +1,50 @@
+county|positive_cases|deaths
+||
+Bell|4|-
+Bexar|32|1
+Bowie|1|-
+Brazoria|18|-
+Brazos|4|-
+Brown|2|-
+Cameron|6|-
+Castro|2|-
+Chambers|2|-
+Collin|24|1
+Comal|3|-
+Crane|1|-
+Dallas|34|4
+Deaf Smith|2|-
+Denton|20|-
+DeWitt|1|-
+El Paso|7|-
+Ellis|5|-
+Falls|1|-
+Fannin|1|-
+Fort Bend|11|-
+Galveston|15|-
+Grayson|1|-
+Gregg|1|-
+Harris|27|1
+Hays|6|-
+Hidalgo|2|-
+Hockley|3|-
+Johnson|2|-
+Lavaca|1|-
+Lubbock|2|-
+Matagorda|3|1
+McLennan|7|-
+Medina|1|-
+Midland|1|-
+Montgomery|4|-
+Nueces|1|-
+Oldham|1|-
+Parker|1|-
+Potter|2|-
+Rusk|1|-
+Smith|5|-
+Tarrant|35|1
+Travis|22|-
+Webb|5|-
+Wichita|4|-
+Williamson|13|-
+Pending County Assignment|63|-

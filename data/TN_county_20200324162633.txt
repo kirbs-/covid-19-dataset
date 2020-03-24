@@ -1,0 +1,53 @@
+county|positive_cases
+|
+Anderson County|1
+Blount County|3
+Bradley County|2
+Campbell County|2
+Carroll County|3
+Cheatham County|5
+Chester County|1
+Claiborne County|1
+Cocke County|1
+Cumberland County|3
+Davidson County|183
+Dekalb County|1
+Dickson County|5
+Dyer County|2
+Fayette County|2
+Franklin County|1
+Gibson County|2
+Greene County|5
+Grundy County|1
+Hamblen County|2
+Hamilton County|8
+Hardin County|1
+Houston County|1
+Jefferson County|4
+Knox County|15
+Lincoln County|1
+Loudon County|2
+Madison County|1
+Marion County|1
+Maury County|6
+McMinn County|2
+Monroe County|2
+Montgomery County|6
+Overton County|1
+Perry County|1
+Putnam County|8
+Roane County|1
+Robertson County|12
+Rutherford County|13
+Scott County|1
+Sevier County|2
+Shelby County|99
+Sullivan County|2
+Sumner County|34
+Tipton County|6
+Washington County|7
+Williamson County|64
+Wilson County|7
+Out of TN|95
+Pending|38
+|

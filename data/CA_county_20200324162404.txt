@@ -1,0 +1,44 @@
+county|positive_cases|deaths
+County||
+Los Angeles|662|11
+Santa Clara|375|16
+San Diego|213|1
+San Mateo|161|2
+Orange|152|0
+San Francisco|152|0
+Alameda|123|1
+Sacramento|88|4
+Contra Costa|71|1
+San Joaquin|60|2
+Riverside|59|6
+Marin|47|0
+Ventura|35|1
+San Luis Obispo|33|0
+Sonoma|29|1
+Santa Cruz|24|0
+Solano|21|0
+Monterey|20|0
+Placer|20|1
+Santa Barbara|18|0
+Tulare|17|0
+San Bernardino|17|0
+Kern|13|0
+Fresno|13|0
+Stanislaus|11|0
+Yolo|9|1
+Imperial|6|0
+Madera|6|0
+San Benito|6|1
+Butte|4|0
+Yuba|3|0
+Humboldt|3|0
+Siskiyou|3|0
+Shasta|3|0
+Napa|3|0
+Nevada|3|0
+Amador|2|0
+Calaveras|2|0
+El Dorado|2|0
+Mono|2|0
+Mendocino|2|0
+Merced|1|0
