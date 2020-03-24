@@ -1,0 +1,29 @@
+county|positive_cases
+"Coronavirus Disease 2019 (COVID-19) in Alabama
+Updated: March 23, 2020 4:30 p.m. (CT)"|
+County of Residence|Cases
+Baldwin|3
+Calhoun|2
+Chambers|2
+Cullman|2
+Elmore|6
+Franklin|1
+Houston|1
+Jackson|1
+Jefferson|86
+Lamar|1
+Lauderdale|3
+Lee|19
+Limestone|1
+Madison|21
+Marion|1
+Mobile|2
+Montgomery|4
+Shelby|22
+St. Clair|3
+Talladega|1
+Tallapoosa|1
+Tuscaloosa|9
+Walker|3
+Washington|1
+Total|196
