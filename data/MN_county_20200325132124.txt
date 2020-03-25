@@ -1,0 +1,35 @@
+county|positive_cases
+|
+Anoka|7
+Benton|1
+Big Stone|1
+Blue Earth|5
+Carver|8
+Cass|1
+Chisago|2
+Clay|3
+Dakota|21
+Dodge|3
+Fillmore|3
+Goodhue|1
+Hennepin|111
+Jackson|1
+Lac qui Parle|1
+Le Sueur|6
+Martin|10
+Mower|6
+Nicollet|3
+Olmsted|21
+Ramsey|27
+Renville|1
+Rice|2
+Scott|6
+Sherburne|1
+St. Louis|3
+Stearns|5
+Steele|5
+Wabasha|3
+Waseca|1
+Washington|13
+Winona|2
+Wright|3
