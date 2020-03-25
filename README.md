@@ -10,6 +10,7 @@ Daily snapshots of US cases by county.
 |   AL  |    Y    |     N     |     N      |      N      |
 |   CA  |    Y    |     N     |     N      |      N      |
 |   CO  |    Y    |     N     |     N      |      N      |
+|   DE  |    Y    |     N     |     N      |      N      |
 |   FL  |    Y    |     N     |     N      |      N      |
 |   GA  |    Y    |     N     |     N      |      N      |
 |   MD  |    Y    |     N     |     N      |      N      |

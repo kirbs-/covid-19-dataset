@@ -1,0 +1,14 @@
+county|positive_cases|deaths
+||
+Kootenai|3|0
+Canyon|5|0
+Ada|22|0
+Valley|1|0
+Blaine|33|0
+Cassia|1|
+Twin Falls|1|0
+Bannock|2|0
+Bingham|1|0
+Madison|2|0
+Teton|2|0
+TOTAL|73|0
