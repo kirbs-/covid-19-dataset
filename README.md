@@ -22,6 +22,7 @@ Daily snapshots of US cases by county.
 |   MI  |    Y    |     N     |     N      |      N      |
 |   MO  |    Y    |     N     |     N      |      N      |
 |   MN  |    Y    |     N     |     N      |      N      |
+|   MT  |    Y    |     N     |     N      |      N      |
 |   NJ  |    Y    |     N     |     N      |      N      |
 |   NY  |    Y    |     N     |     N      |      N      |
 |   OH  |    Y    |     N     |     N      |      N      |

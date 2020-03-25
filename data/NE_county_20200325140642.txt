@@ -1,0 +1,26 @@
+county|positive_cases
+Douglas  |39
+Sarpy  |8
+Lincoln  |3
+Washington  |3
+Buffalo  |2
+Cass  |2
+Knox  |2
+Lancaster  |2
+Adams  |1
+Gage  |1
+Madison  |1
+Nemaha  |1
+Saunders  |1
+Antelope  |0
+Arthur  |0
+Banner  |0
+Blaine  |0
+Boone  |0
+Box Butte  |0
+Boyd  |0
+Brown  |0
+Burt  |0
+Butler  |0
+Cedar  |0
+Chase  |0

@@ -1,0 +1,13 @@
+county|positive_cases
+Gallatin County | 19 Cases
+Yellowstone County | 8 Cases
+Missoula County | 6 Cases
+Silver Bow County | 4 Cases
+Flathead County | 4 Cases
+Cascade County | 3 Cases
+Lewis and Clark County | 3 Cases
+Madison County | 2 Cases
+Jefferson County | 1 Cases
+Ravalli County | 1 Cases
+Broadwater County | 1 Cases
+Roosevelt County | 1 Cases
