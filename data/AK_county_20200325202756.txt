@@ -1,0 +1,17 @@
+county|travel_related|non_travel_related|positive_cases
+Region|Travel-Related|Non-Travel|Total
+ Anchorage|11|6|17
+ Gulf Coast|2|2|4
+ Seward|1|0|1
+ Sterling|0|2|2
+ Soldotna|1|0|1
+ Interior|3|6|9
+ Fairbanks|3|6|9
+ Mat-Su|2|0|2
+ Palmer|2|0|2
+ Northern|0|0|0
+ Southeast|2|8|10
+ Juneau|1|1|2
+ Ketchikan|1|7|8
+ Southwest|0|0|0
+ TOTAL|20|22|42

@@ -1,0 +1,46 @@
+county|positive_cases
+"Coronavirus Disease 2019 (COVID-19) in Alabama
+Updated: March 25, 2020 5:00 p.m. (CT)"|
+County of Residence|Cases
+Autauga|4
+Baldwin|4
+Blount|1
+Butler|1
+Calhoun|2
+Chambers|10
+Cherokee|1
+Chilton|1
+Clay|1
+Cleburne|1
+Colbert|1
+Cullman|4
+Dallas|2
+Elmore|9
+Etowah|3
+Franklin|2
+Houston|2
+Jackson|2
+Jefferson|129
+Lamar|1
+Lauderdale|7
+Lawrence|1
+Lee|40
+Limestone|6
+Madison|35
+Marion|3
+Marshall|1
+Mobile|10
+Montgomery|13
+Morgan|5
+Pickens|1
+Pike|1
+Russell|1
+Shelby|42
+St. Clair|6
+Talladega|3
+Tallapoosa|4
+Tuscaloosa|15
+Walker|9
+Washington|1
+Wilcox|1
+Total|386

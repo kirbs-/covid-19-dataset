@@ -1,0 +1,19 @@
+county|positive_cases|deaths
+||
+Kootenai|9|0
+Idaho|1|0
+Nez Perce|1|0
+Canyon|8|0
+Payette|1|0
+Ada|37|0
+Valley|1|0
+Blaine|52|0
+Cassia|1|0
+Twin Falls|1|0
+Bannock|3|0
+Bingham|1|0
+Fremont|1|0
+Jefferson|2|0
+Madison|2|0
+Teton|2|0
+TOTAL|123|0

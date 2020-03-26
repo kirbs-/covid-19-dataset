@@ -1,0 +1,23 @@
+county|positive_cases
+Bourbon |1
+Butler |3
+Cherokee |2
+Crawford |1
+Douglas |10
+Doniphan |1
+Ford |0
+Franklin |1
+Jackson |1
+Johnson |44
+Linn |2
+Leavenworth |11
+Lyon |2
+Mitchell |2
+Miami |0
+Morris |2
+Neosho |1
+Pottawatomie |1
+Reno |2
+Sedgwick |11
+Woodson |1
+Wyandotte |27

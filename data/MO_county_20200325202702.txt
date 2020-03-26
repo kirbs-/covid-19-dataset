@@ -1,0 +1,42 @@
+county|positive_cases|state_phl|private_lab
+|||
+Adair|1|0|1
+Bates|1|0|1
+Boone|20|1|19
+Callaway|2|0|2
+Camden|1|1|0
+Cape Girardeau|3|0|3
+Cass|8|2|6
+Christian|1|1|0
+Clay|2|0|2
+Clinton|1|0|1
+Cole|6|3|3
+Cooper|1|0|1
+Dunklin|1|0|1
+Franklin|3|0|3
+Greene|23|15|8
+Henry|1|1|0
+Jackson|17|2|15
+Jasper|2|1|1
+Jefferson|5|1|4
+Johnson|2|1|1
+Kansas City|43|1|42
+Lafayette|2|0|2
+McDonald|1|0|1
+Moniteau|2|0|2
+Montgomery|1|0|1
+Newton|1|1|0
+Pemiscot|1|0|1
+Perry|2|1|1
+Platte|2|0|2
+Pulaski|4|0|4
+Ralls|1|1|0
+Randolph|1|0|1
+Scott|1|0|1
+Shelby|1|1|0
+St. Charles|12|1|11
+St. Francois|2|1|1
+St. Louis City|44|9|35
+St. Louis County|129|17|112
+Taney|1|0|1
+TBD|4|0|4

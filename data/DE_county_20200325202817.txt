@@ -1,0 +1,4 @@
+county|positive_cases
+Sussex|26
+Kent|14
+New Castle|79

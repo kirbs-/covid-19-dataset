@@ -1,0 +1,32 @@
+county|positive_cases
+Johnson | 43
+Polk | 20
+Allamakee | 7
+Dallas | 7
+Linn | 7
+Dubuque | 6
+Muscatine | 6
+Washington | 6
+Black Hawk | 4
+Poweshiek | 4
+Tama | 4
+Hancock | 3
+Harrison | 3
+Scott | 3
+Benton | 2
+Cerro Gordo | 2
+Pottawattamie | 2
+Story | 2
+Woodbury | 2
+Adair | 1
+Buchanan | 1
+Carroll | 1
+Cedar | 1
+Fayette | 1
+Henry | 1
+Jasper | 1
+Kossuth | 1
+Sioux | 1
+Wapello | 1
+Warren | 1
+Winneshiek | 1
