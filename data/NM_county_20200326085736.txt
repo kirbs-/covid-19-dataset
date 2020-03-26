@@ -1,0 +1,35 @@
+county|positive_cases|deaths
+County|Cases|Deaths
+Bernalillo County|48|—
+Catron County|0|—
+Chaves County|3|—
+Cibola County|1|—
+Colfax County|0|—
+Curry County|1|—
+De Baca County|0|—
+Doña Ana County|13|—
+Eddy County|1|1
+Grant County|0|—
+Guadalupe County|0|—
+Harding County|0|—
+Hidalgo County|0|—
+Lea County|1|—
+Lincoln County|0|—
+Los Alamos County|0|—
+Luna County|0|—
+McKinley County|3|—
+Mora County|0|—
+Otero County|0|—
+Quay County|0|—
+Rio Arriba County|2|—
+Roosevelt County|0|—
+San Juan County|8|—
+San Miguel County|1|—
+Sandoval County|8|—
+Santa Fe County|17|—
+Sierra County|0|—
+Socorro County|2|—
+Taos County|3|—
+Torrance County|0|—
+Union County|0|—
+Valencia County|0|—

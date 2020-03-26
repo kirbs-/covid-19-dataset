@@ -1,0 +1,83 @@
+county|positive_cases
+Dallas County|169
+Harris County|134
+Travis County|98
+Tarrant County|71
+Bexar County|69
+Fort Bend County|46
+Collin County|45
+Denton County|30
+McLennan County|23
+Montgomery County|23
+Galveston County|21
+Brazoria County|19
+Williamson County|19
+Bell County|18
+Brazos County|16
+Smith County|14
+Lubbock County|12
+El Paso County|11
+Nueces County|10
+Webb County|8
+Hays County|7
+Cameron County|6
+Ellis County|6
+Matagorda County|6
+Comal County|5
+Wichita County|5
+Guadalupe County|4
+Castro County|3
+Hockley County|3
+Jefferson County|3
+Johnson County|3
+Midland County|3
+Wharton County|3
+Atascosa County|2
+Brown County|2
+Deaf Smith County|2
+Eastland County|2
+Grayson County|2
+Grimes County|2
+Hardin County|2
+Hidalgo County|2
+Kaufman County|2
+Kendall County|2
+Milam County|2
+Potter County|2
+Austin County|1
+Bastrop County|1
+Blanco County|1
+Bowie County|1
+Burnet County|1
+Cass County|1
+Chambers County|1
+Coryell County|1
+Crane County|1
+De Witt County|1
+Erath County|1
+Falls County|1
+Fannin County|1
+Fayette County|1
+Gaines County|1
+Gregg County|1
+Hopkins County|1
+Hunt County|1
+Lamar County|1
+Lavaca County|1
+Liberty County|1
+Limestone County|1
+Llano County|1
+Maverick County|1
+Medina County|1
+Morris County|1
+Oldham County|1
+Orange County|1
+Parker County|1
+Robertson County|1
+Rusk County|1
+Terry County|1
+Tom Green County|1
+Upshur County|1
+Van Zandt County|1
+Walker County|1
+Wilson County|1
